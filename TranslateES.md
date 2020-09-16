@@ -150,7 +150,7 @@ Config:
   - msg %player% &aToma tu recompensa!
   - eco give %player% %random_5*points-10*points%
   losers_command_rewards:
-  - msg %player% &a¡Has perdido! Toma, toma esta recompensa de compensación.
+  - msg %player% &a¡Has perdido!, toma esta recompensa de compensación.
   - eco give %player% %random_2*points-3*points%
   minimum_time_for_rewards: 240
   rewards_executed_after_teleport: true
